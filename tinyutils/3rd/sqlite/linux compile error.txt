@@ -1,0 +1,2 @@
+1，aclocal-1.15: command not found
+	解决：autoreconf -ivf  & make
